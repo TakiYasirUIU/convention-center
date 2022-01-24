@@ -5,3 +5,30 @@ body{
      font-family: 'Poppins'; 
     
 }
+
+/* our package part  */
+.cart-body-small{
+    font-size: 9px;
+   
+
+}
+.card-text-size small {
+    font-size: 8px;
+    
+}
+.button-font-size-package{
+    font-size: 8px;
+   
+}
+.fa-check-circle{
+    font-size: 10px;
+}
+.btn-packge{
+    background-color: #F496D1;
+
+}
+.btn-sm-size{
+    width: 112px;
+    height: 25px;
+    padding-top:1px;
+}
