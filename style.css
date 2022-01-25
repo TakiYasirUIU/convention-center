@@ -1,6 +1,6 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Neonderthaw&display=swap');
 body{
      font-family: 'Poppins'; 
     
@@ -56,3 +56,19 @@ body{
     height: 25px;
     padding-top:1px;
 } */
+
+footer{
+    font-family: 'Manrope';
+
+}
+.footer-bg{
+    background-color: black;
+    width: 135px;
+    height: 40px;
+}
+.footer-ms{
+    margin-left: 165px;
+}
+.footer-me{
+    margin-right: 165px;
+}
