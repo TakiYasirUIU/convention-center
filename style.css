@@ -31,31 +31,39 @@ body{
 }
 
 /* our package part  */
-/* .cart-body-small{
-    font-size: 9px;
-   
+.our-margin{
+    margin-bottom: 100px;
+}
+.card-bg-package{
+    background-color: rgb(253, 244, 250);
 
-}
-.card-text-size small {
-    font-size: 8px;
-    
-}
-.button-font-size-package{
-    font-size: 8px;
-   
 }
 .fa-check-circle{
-    font-size: 10px;
-}
-.btn-packge{
-    background-color: #F496D1;
+    color: #5243C2;
 
 }
-.btn-sm-size{
-    width: 112px;
-    height: 25px;
-    padding-top:1px;
-} */
+
+.fa-color{
+    color: rgb(253, 244, 250);
+}
+.card-bg-round{
+    height: 395px;
+    border-radius: 20px;
+    background-color: rgb(63, 135, 245);
+    
+    
+
+}
+.special-cart-magrin-top{
+    margin-top: 25px;
+    
+}
+.card-btn{
+    width: 248px;
+    height: 38px;
+    
+}
+/* Toast part  */
 
 .make-toast{
     margin-left: 70%;
