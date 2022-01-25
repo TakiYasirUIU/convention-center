@@ -57,6 +57,12 @@ body{
     padding-top:1px;
 } */
 
+.make-toast{
+    margin-left: 70%;
+}
+.fa-gift{
+    color: #007CFF ;
+}
 footer{
     font-family: 'Manrope';
 
