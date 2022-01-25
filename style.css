@@ -6,6 +6,9 @@ body{
     
 }
  /* carousel  */
+ .margin-mb{
+     margin-bottom:90px;
+ }
  .btn-size-carousel{
      width: 168px;
      height: 50px;
@@ -20,7 +23,12 @@ body{
     
 }
 
-
+/*----------------
+    bonus part 
+----------------*/
+.bonus-margin-mb{
+    margin-bottom: 100px;
+}
 
 /* our package part  */
 /* .cart-body-small{
